@@ -2,11 +2,10 @@
 
 ## About Me
 
-**Name:** Anu
-
-**UID:** 24BAI70334
-**University:** Chandigarh University
-**Course:** B.Tech in Computer Science and Engineering (AI & ML)
+**Name:** Anu  
+**UID:** 24BAI70334  
+**University:** Chandigarh University  
+**Course:** B.Tech in Computer Science and Engineering (AI & ML)  
 
 ## About This Project
 
@@ -68,8 +67,8 @@ Through this project, I learned:
 
 ## Author
 
-**Anurag**
-**UID:** 24BAI70334
-**Chandigarh University**
-**B.Tech CSE (AI & ML)**
-**24NTPP 2 A**
+**Anurag**  
+**UID:** 24BAI70334  
+**Chandigarh University**  
+**B.Tech CSE (AI & ML)**  
+**24NTPP 2 A**  
