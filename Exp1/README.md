@@ -102,3 +102,5 @@ Provides detailed statistics for a selected column, such as:
 ### ScreenShot
 
 ![Charts and Graphs](Output/image.png)
+
+![Charts and Graphs](Output/image2.png)
